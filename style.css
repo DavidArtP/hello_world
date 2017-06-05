@@ -1,0 +1,14 @@
+TABLE{
+    width: 100%;
+    border: #cfffdc;
+}
+TD{
+    text-align: center;
+    background: #cccccc;
+
+}
+H75{
+    font-size: 7px;
+    text-shadow: #ffffaa;
+    margin-bottom: 10px;
+}
