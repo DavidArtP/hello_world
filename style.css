@@ -12,3 +12,28 @@ H75{
     text-shadow: #ffffaa;
     margin-bottom: 15px;
 }
+UL.a{
+    list-style-type: square;
+}
+UL.b{
+list-style-type: hebrew;
+}
+UL.c{
+list-style-type: katakana;
+}
+IMG{
+    width: 100%;
+}
+a:link{
+color: green;
+text-decoration: underline;
+}
+a:hover{
+color: red
+}
+a:visited{
+color: orange
+}
+a.active{
+color: yellow
+}
