@@ -29,11 +29,18 @@ color: green;
 text-decoration: underline;
 }
 a:hover{
-color: red
+color: red;
 }
 a:visited{
-color: orange
+color: orange;
 }
 a.active{
-color: yellow
+color: yellow;
+}
+BR{
+    margin: 100px;
+}
+VIDEO{
+    width: 100%;
+    text-align: center;
 }
